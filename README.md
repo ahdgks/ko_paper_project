@@ -36,7 +36,7 @@ Streamlit
 
 
 ### Dataset 출처
-사용된 데이터는 AI hub의 논문자료 요약 데이터셋 중 학술논문-섹션요약 데이터 입니다.
+사용된 데이터는 AI hub의 논문자료 요약 데이터셋 중 학술논문-섹션요약 데이터 입니다. 해당 데이터는 ai hub에서 사용 허가를 받고 사용해야합니다!
 
 ![image](https://github.com/ahdgks/koala_project/assets/135018581/304ffc58-524e-4a3b-b2bd-1018eee02d96)
 
