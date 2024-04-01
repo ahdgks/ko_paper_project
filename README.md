@@ -15,7 +15,7 @@ Dataset
 - 3. question_dataset_gpt.ipynb (gpt4.0로 fine_tuning에 사용할 데이터셋 생성)
      이때 원래 1900개를 만드려고 했으나 중간에 오류로 1682개 데이터가 만들어짐
     
-lora_Training
+Fine-tuning
 - 1. lora_fine_tuning.ipynb
 
 RAG
@@ -47,6 +47,8 @@ Streamlit
 doc_id, title, date, author, section_summary_text를 사용해 답변 형식을 만들고 이에 대한 질문을 GPT 4.0을 사용해 생성했습니다.
 
 아래는 사용한 프롬프트와 만들어진 질문 답변쌍입니다.
+
+해당 데이터셋은 직접 만든 데이터셋이므로 업로드해두었습니다.
 
 ![image](https://github.com/ahdgks/koala_project/assets/135018581/f9bdf396-3345-458e-a357-1e80efc08b5a)
 
